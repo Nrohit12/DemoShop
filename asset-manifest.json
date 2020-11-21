@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DemoShop/static/css/main.ca374ad9.chunk.css",
+    "main.js": "/DemoShop/static/js/main.71a6520b.chunk.js",
+    "main.js.map": "/DemoShop/static/js/main.71a6520b.chunk.js.map",
+    "runtime-main.js": "/DemoShop/static/js/runtime-main.24ecde34.js",
+    "runtime-main.js.map": "/DemoShop/static/js/runtime-main.24ecde34.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/DemoShop/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3d657f44.chunk.js": "/DemoShop/static/js/2.3d657f44.chunk.js",
+    "static/js/2.3d657f44.chunk.js.map": "/DemoShop/static/js/2.3d657f44.chunk.js.map",
+    "index.html": "/DemoShop/index.html",
+    "precache-manifest.baa942e4c015eea43af3296231a1ee1f.js": "/DemoShop/precache-manifest.baa942e4c015eea43af3296231a1ee1f.js",
+    "service-worker.js": "/DemoShop/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/DemoShop/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.ca374ad9.chunk.css.map": "/DemoShop/static/css/main.ca374ad9.chunk.css.map",
+    "static/js/2.3d657f44.chunk.js.LICENSE.txt": "/DemoShop/static/js/2.3d657f44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24ecde34.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.3d657f44.chunk.js",
+    "static/css/main.ca374ad9.chunk.css",
+    "static/js/main.71a6520b.chunk.js"
+  ]
+}
